@@ -1,3 +1,4 @@
+/* Piotr Graczyk Łukasz Aniszewski Dominik Domagalski 2019*/
 #include<LiquidCrystal.h>
 #include<stdlib.h>
 
